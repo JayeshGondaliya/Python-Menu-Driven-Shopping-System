@@ -91,7 +91,7 @@ def update_product():
             print("✅Update SuccessFully")
 
     if found != True:
-        print("❌ Product Not Found")
+        print(" Product Not Found")
 
 
 cart_item_list = []
