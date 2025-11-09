@@ -38,5 +38,4 @@ It’s a great mini-project for Python beginners to practice loops, conditionals
    git clone https://github.com/<your-username>/python-shopping-system.git
    cd python-shopping-system
 
-2. run code
-   python python-shopping-system
+
