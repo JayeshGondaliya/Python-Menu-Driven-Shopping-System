@@ -83,8 +83,8 @@ def update_product():
         if p[0] == p_id:
 
             print("---------------:Enter New Data :----------")
-            new_p_name = input("Enter Product Name")
-            new_p_price = float(input("Enter Prodcut Price"))
+            new_p_name = input("Enter Product Name:---------->")
+            new_p_price = float(input("Enter Prodcut Price:-------->"))
             p[1] = new_p_name
             p[2] = new_p_price
             found = True
