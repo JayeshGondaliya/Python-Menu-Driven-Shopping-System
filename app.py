@@ -69,7 +69,7 @@ def delete_product():
             print("✅Product Delete SuccessFully")
         print()
     if found != True:
-        print("❌ Product Not Found")
+        print(" Product Not Found")
 
 
 def update_product():
