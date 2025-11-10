@@ -46,7 +46,7 @@ def display_product():
     print("🛍️ AVAILABLE PRODUCTS")
     print("="*45)
     print(f"{'Product ID':<12}{'Product Name':<20}{'Price (₹)':<10}")
-    print("-"*45)
+    print("-"*4)
 
     for p in product_list:
         print(f"{p[0]:<12}{p[1]:<20}{p[2]:<10.2f}")
