@@ -1,6 +1,6 @@
 def main_menu():
     print("[1] Admin ")
-    print("[2] User")
+    print("[2] Use")
 
 
 def Admin_menu():
