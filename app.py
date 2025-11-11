@@ -43,7 +43,7 @@ def display_product():
         return
 
     print("\n" + "="*45)
-    print(" AVAILABLE PRODUCTS")
+    print("🛍️ AVAILABLE PRODUCTS")
     print("="*45)
     print(f"{'Product ID':<12}{'Product Name':<20}{'Price (₹)':<10}")
     print("-"*45)
