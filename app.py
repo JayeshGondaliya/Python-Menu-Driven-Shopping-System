@@ -66,7 +66,7 @@ def delete_product():
             delete_list = [p[0], p[1], p[2]]
             product_list.remove(delete_list)
             found = True
-            print("Product Delete SuccessFully")
+            print("✅Product Delete SuccessFully")
         print()
     if found != True:
         print("❌ Product Not Found")
