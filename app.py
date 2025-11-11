@@ -56,7 +56,7 @@ def display_product():
 
 def delete_product():
     if not product_list:
-        print("\n No Products Available!")
+        print("\n⚠️ No Products Available!")
         print()
         return
     found = False
