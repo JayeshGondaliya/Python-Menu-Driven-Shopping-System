@@ -38,7 +38,7 @@ def add_product():
 
 def display_product():
     if not product_list:
-        print("\n No Products Available!")
+        print("\n⚠️ No Products Available!")
         print()
         return
 
