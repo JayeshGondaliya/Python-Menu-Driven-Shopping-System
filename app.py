@@ -26,7 +26,7 @@ def add_product():
     p_id = int(input("Enter Product Id:->"))
     for p in product_list:
         if p[0] == p_id:
-            print("❌ Product is already exists")
+            print(" Product is already exists")
             return
     p_name = input("Enter Product Name:->")
     p_price = float(input("Enter Product Price:->"))
