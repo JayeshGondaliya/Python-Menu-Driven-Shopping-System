@@ -33,7 +33,7 @@ def add_product():
 
     new_product = [p_id, p_name, p_price]
     product_list.append(new_product)
-    print("✅SuccessFully Item Added By Admin")
+    print("SuccessFully Item Added By Admin")
 
 
 def display_product():
